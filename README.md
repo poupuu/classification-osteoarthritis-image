@@ -17,11 +17,9 @@ Osteoarthritis diagnosis is heavily reliant on the visual inspection of X-ray im
 4. Evaluation
 
 ## Skills:
-- Programming & Data Manipulation: Python, Pandas, NumPy, OpenCV (cv2)
-- Data Visualization: Matplotlib, Seaborn
-- Deep Learning Framework: TensorFlow, Keras
-- Modeling Techniques: Deep Learning, Convolutional Neural Networks (CNNs)
-- Model Training & Evaluation: Data Augmentation (ImageDataGenerator), Regularization (Dropout), Callbacks (EarlyStopping)
+1. Python: EDA, data cleaning, preprocessing, modeling, evaluation, and exporting models using pickle
+2. Deep Learning Frameworks: tensorflow and keras
+3. Computer Vision: image processing and extraction image using OpenCV
 
 ## Results:
 - The baseline CNN turns out the strongest and more stable performance
