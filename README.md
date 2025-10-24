@@ -1,4 +1,5 @@
-# Osteoarthritis Classification from X-Rays Images using CNNs
+# Osteoarthritis Classification from X-Rays Images using CNNs 
+Notes: Research/Education only - not for clinical use
 
 ## Summary
 Develope a deep learning model to classify the severity of knee osteoarthritis from X-ray images using CNN with modification layers, early stopping, and reducing learning rate, evaluation using classification report & confusion matrix for identify precission, recall, f1-score
@@ -19,12 +20,13 @@ Osteoarthritis diagnosis is heavily reliant on the visual inspection of X-ray im
 - Programming & Data Manipulation: Python, Pandas, NumPy, OpenCV (cv2)
 - Data Visualization: Matplotlib, Seaborn
 - Deep Learning Framework: TensorFlow, Keras
-- Modeling Techniques: Deep Learning, Convolutional Neural Networks (CNNs), Transfer Learning
-- Specific Architectures: EfficientNetB0, ResNet50, VGG16, InceptionV3, MobileNetV2
-- Model Training & Evaluation: Data Augmentation (ImageDataGenerator), Regularization (Dropout), Callbacks (EarlyStopping, ReduceLROnPlateau), Categorical Crossentropy
+- Modeling Techniques: Deep Learning, Convolutional Neural Networks (CNNs)
+- Model Training & Evaluation: Data Augmentation (ImageDataGenerator), Regularization (Dropout), Callbacks (EarlyStopping)
 
-## Results & Business Recommendation
-//image
-
+## Results
+- The baseline CNN turns out the strongest and more stable performance
+- The modified CNN underperformed compared to baseline model which means adding more layers and more complex model didn't make the model perform better
 
 ## Next Steps
+- Using Transfer Learning such as efficientNetB0
+- Tune Trials Hyperparameters
