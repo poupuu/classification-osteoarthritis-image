@@ -6,9 +6,9 @@ Develope a deep learning model to classify the severity of knee osteoarthritis f
 
 ## Problem:
 Osteoarthritis diagnosis is heavily reliant on the visual inspection of X-ray images by radiologists to assign a severity grade. This manual process faces several key challenges:
-- Subjectivity: Objectivity is necessary when we talking with medical things
-- Time-Consuming: For manual review it takes time to identify one by one image to classify severity osteoarthritis image especially for high-volume data
-- Resources limitation: straining limited radiologist resources for more complex cases
+1. Subjectivity: Objectivity is necessary when we talking with medical things
+2. Time-Consuming: For manual review it takes time to identify one by one image to classify severity osteoarthritis image especially for high-volume data
+3. Resources limitation: straining limited radiologist resources for more complex cases
 
 ## Methodology:
 1. EDA
