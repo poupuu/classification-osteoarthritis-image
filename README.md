@@ -22,9 +22,9 @@ Osteoarthritis diagnosis is heavily reliant on the visual inspection of X-ray im
 3. Computer Vision: image processing and extraction image using OpenCV
 
 ## Results:
-- The baseline CNN turns out the strongest and more stable performance
-- The modified CNN underperformed compared to baseline model which means adding more layers and more complex model didn't make the model perform better
+1. The baseline CNN turns out the strongest and more stable performance
+2. The modified CNN underperformed compared to baseline model which means adding more layers and more complex model didn't make the model perform better
 
 ## Next Steps:
-- Using Transfer Learning such as efficientNetB0
-- Tune Trials Hyperparameters
+1. Using Transfer Learning such as efficientNetB0
+2. Tune Trials Hyperparameters
