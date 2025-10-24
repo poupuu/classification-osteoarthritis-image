@@ -1,7 +1,7 @@
 # Osteoarthritis Classification from X-Rays Images using CNNs
 
 ## Summary
-Develope a deep learning model to classify the severity of knee osteoarthritis from X-ray images using CNN with modification layers, early stopping, and reducing learning rate, evaluation using classification report for identify precission, recall, f1-score
+Develope a deep learning model to classify the severity of knee osteoarthritis from X-ray images using CNN with modification layers, early stopping, and reducing learning rate, evaluation using classification report & confusion matrix for identify precission, recall, f1-score
 
 ## Problem
 Osteoarthritis diagnosis is heavily reliant on the visual inspection of X-ray images by radiologists to assign a severity grade. This manual process faces several key challenges:
